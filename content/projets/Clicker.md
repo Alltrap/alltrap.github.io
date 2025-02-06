@@ -1,6 +1,6 @@
 ---
 title: "Création d'une interface en C#"
-date: 2024-11-07
+date: 2024-11-14
 draft: false
 github_link: "https://github.com/gurusabarish/hugo-profile"
 author: "NOIROT Lucas"
