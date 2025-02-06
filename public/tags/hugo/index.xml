@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Profile</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Hugo Profile</description>
+    <title>HUGO on Hugo Profile</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in HUGO on Hugo Profile</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Thu, 06 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo - Portfolio</title>
       <link>http://localhost:1313/projets/hugo/</link>
@@ -28,13 +28,6 @@
       <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projets/csharp/</guid>
       <description>&lt;h2 id=&#34;présentation-du-projet&#34;&gt;Présentation du projet&lt;/h2&gt;&#xA;&lt;p&gt;La généralisation des nouvelles technologies dans notre quotidien et dans le monde professionnel nécessite que chaque individu soit identifié de manière unique et sûre. En effet, cela est indispensable si l’on veut avoir une bonne traçabilité des actions de chaque utilisateur et ainsi de pouvoir garantir une bonne confidentialité.&lt;/p&gt;&#xA;&lt;p&gt;L’identification permet donc de connaître l’identité d’une personne alors que l’authentification permet de vérifier cette identité.&lt;/p&gt;&#xA;&lt;p&gt;L’authentification est la procédure qui consiste, pour un système informatique, à vérifier l’identité d’une entité (personne, ordinateur…), afin d’autoriser l’accès de cette entité à des ressources (systèmes, réseaux, applications…).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Image Gallery</title>
-      <link>http://localhost:1313/gallery/</link>
-      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
-      <guid>http://localhost:1313/gallery/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

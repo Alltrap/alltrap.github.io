@@ -6,14 +6,28 @@
     <description>Recent content in Projets on Hugo Profile</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 03 Apr 2021 22:53:58 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/projets/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo Serveur</title>
+      <title>Hugo - Portfolio</title>
       <link>http://localhost:1313/projets/hugo/</link>
-      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projets/hugo/</guid>
-      <description>&lt;p&gt;HUGO est un service en ligne d&amp;rsquo;archivage et de protection de fichiers numériques permettant à leurs auteurs ou à leurs ayants droit d&amp;rsquo;assurer la conservation et la protection juridique de leurs œuvres.&lt;/p&gt;&#xA;&lt;h2 id=&#34;portfolio&#34;&gt;Portfolio&lt;/h2&gt;&#xA;&lt;p&gt;&amp;hellip;&lt;/p&gt;&#xA;&lt;!-- The [emojify](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes).&#xA;&#xA;To enable emoji globally, set ```enableEmoji``` to ```true``` in your site’s [configuration](https://gohugo.io/getting-started/configuration/) and then you can type emoji shorthand codes directly in content files; e.g.&#xA;&#xA;The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference for emoji shorthand codes.&#xA;&#xA;&lt;hr&gt;&#xA;&#xA;**N.B.** The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.--&gt;</description>
+      <description>&lt;h6 id=&#34;à-propos-de-hugo&#34;&gt;À propos de Hugo&lt;/h6&gt;&#xA;&lt;p&gt;HUGO est un service en ligne d&amp;rsquo;archivage et de protection de fichiers numériques permettant à leurs auteurs ou à leurs ayants droit d&amp;rsquo;assurer la conservation et la protection juridique de leurs œuvres.&lt;/p&gt;&#xA;&lt;h2 id=&#34;présentation-du-projet&#34;&gt;Présentation du projet&lt;/h2&gt;&#xA;&lt;p&gt;Lors de l’épreuve E5 du BTS, nous devons présenter un portfolio qui contient les réalisations faites au cours de notre formation.&lt;/p&gt;&#xA;&lt;p&gt;Au cours du 1ᵉʳ semestre, nous avons vu comment le faire simplement avec HTML et CSS.&#xA;Cette fois-ci, on a dû installer un environnement permettant de faire tourner le framework Hugo.&#xA;Hugo permet de générer des sites statiques simplement. Il fournit également de nombreux thèmes.&#xA;Nous avons donc créé notre portfolio avec Hugo, puis nous l&amp;rsquo;avons hébergé sur GitHub et, finalement, on l&amp;rsquo;a déployé automatiquement sur les GitHub Pages.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Création d&#39;une interface en C#</title>
+      <link>http://localhost:1313/projets/clicker/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projets/clicker/</guid>
+      <description>&lt;h2 id=&#34;présentation-du-projet&#34;&gt;Présentation du projet&lt;/h2&gt;&#xA;&lt;p&gt;Afin d&amp;rsquo;étudier le javascript nous avons créer un cliker à partir d&amp;rsquo;une base deja existante, on nous a demander de coder le jeu afin en suivent ces principes :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;il faut cliquer sur une image.&lt;/li&gt;&#xA;&lt;li&gt;à chaque clic le score augmente de 1.&lt;/li&gt;&#xA;&lt;li&gt;pour arriver au niveau 1, il faut 15 clics, puis pour chaque niveau suivant on multiplie par 2 le nombre de clics nécessaires au niveau précédent (niveau 1 : 15 clics, niveau 2 : 30 clics, niveau 3 : 60 clics, niveau 4 : 120 clics, …).&lt;/li&gt;&#xA;&lt;li&gt;a chaque fois que l’on arrive au niveau supérieur, le nombre de clics actuel devient le nombre de clics auquel on retire le nombre de clics utilisés pour passer au niveau supérieur.&lt;/li&gt;&#xA;&lt;li&gt;On veut que les joueurs puissent se connecter avec leur nom / mot de passe grâce à un formulaire de connexion.&lt;/li&gt;&#xA;&lt;li&gt;Lorsqu’un joueur se connecte, le jeu s’initialise avec le nombre de clics et le niveau qui correspondent à son compte dans la base de données.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;résultat-obtenu&#34;&gt;Résultat Obtenu&lt;/h2&gt;&#xA;&lt;center&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/ap-clics.png&#34;&gt;&#xA;&lt;/center&gt;&#xA;&lt;!-- The [emojify](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes).&#xA;&lt;p&gt;To enable emoji globally, set &lt;code&gt;enableEmoji&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in your site’s &lt;a href=&#34;https://gohugo.io/getting-started/configuration/&#34;&gt;configuration&lt;/a&gt; and then you can type emoji shorthand codes directly in content files; e.g.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Création d&#39;une interface en C#</title>
+      <link>http://localhost:1313/projets/csharp/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projets/csharp/</guid>
+      <description>&lt;h2 id=&#34;présentation-du-projet&#34;&gt;Présentation du projet&lt;/h2&gt;&#xA;&lt;p&gt;La généralisation des nouvelles technologies dans notre quotidien et dans le monde professionnel nécessite que chaque individu soit identifié de manière unique et sûre. En effet, cela est indispensable si l’on veut avoir une bonne traçabilité des actions de chaque utilisateur et ainsi de pouvoir garantir une bonne confidentialité.&lt;/p&gt;&#xA;&lt;p&gt;L’identification permet donc de connaître l’identité d’une personne alors que l’authentification permet de vérifier cette identité.&lt;/p&gt;&#xA;&lt;p&gt;L’authentification est la procédure qui consiste, pour un système informatique, à vérifier l’identité d’une entité (personne, ordinateur…), afin d’autoriser l’accès de cette entité à des ressources (systèmes, réseaux, applications…).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -263,18 +263,18 @@ params:
 
   # projects
   projects:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
-      - title: Hugo Serveur
-        content: Portfolio
+      - title: Portfolio
+        content: Hugo
         image: /images/hugo.svg
         featured:
           name: À propos
-          link: /projets/hugo.md/
+          link: /projets/hugo/
         badges:
-          - "Hugo Serveur"
           - "Portfolio"
+          - "Hugo"
         ##links:
           ##- icon: fa fa-envelope
             #url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
@@ -318,7 +318,7 @@ params:
 
   # Single pages like blog and post
   singlePages:
-    socialShare: true
+    socialShare: false
     readTime:
       enable: true
       content: "min read"
@@ -330,7 +330,7 @@ params:
   # For translations
   terms:
     read: "Read"
-    toc: "Table Of Contents"
+    toc: "Table des matières"
     copyright: "All rights reserved"
     pageNotFound: "Page not found"
     emailText: "Check out this site"

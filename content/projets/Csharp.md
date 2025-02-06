@@ -1,6 +1,6 @@
 ---
-title: "Hugo - Portfolio"
-date: 2025-02-06
+title: "Création d'une interface en C#"
+date: 2024-11-07
 draft: false
 github_link: "https://github.com/gurusabarish/hugo-profile"
 author: "NOIROT Lucas"
@@ -8,21 +8,22 @@ tags:
   - AP
   - HUGO
   - Portfolio
-image: /images/hugo.svg
+image: /images/Logo_C_sharp.svg
 description: ""
 toc: 
 ---
-###### À propos de Hugo
-HUGO est un service en ligne d'archivage et de protection de fichiers numériques permettant à leurs auteurs ou à leurs ayants droit d'assurer la conservation et la protection juridique de leurs œuvres.
 ## Présentation du projet
 
-Lors de l’épreuve E5 du BTS, nous devons présenter un portfolio qui contient les réalisations faites au cours de notre formation. 
+La généralisation des nouvelles technologies dans notre quotidien et dans le monde professionnel nécessite que chaque individu soit identifié de manière unique et sûre. En effet, cela est indispensable si l’on veut avoir une bonne traçabilité des actions de chaque utilisateur et ainsi de pouvoir garantir une bonne confidentialité.
 
-Au cours du 1ᵉʳ semestre, nous avons vu comment le faire simplement avec HTML et CSS. 
-Cette fois-ci, on a dû installer un environnement permettant de faire tourner le framework Hugo. 
-Hugo permet de générer des sites statiques simplement. Il fournit également de nombreux thèmes.
-Nous avons donc créé notre portfolio avec Hugo, puis nous l'avons hébergé sur GitHub et, finalement, on l'a déployé automatiquement sur les GitHub Pages.
+L’identification permet donc de connaître l’identité d’une personne alors que l’authentification permet de vérifier cette identité.
 
+L’authentification est la procédure qui consiste, pour un système informatique, à vérifier l’identité d’une entité (personne, ordinateur…), afin d’autoriser l’accès de cette entité à des ressources (systèmes, réseaux, applications…).
+
+## Résultat Obtenu
+<center>
+<img src="/images/Csharpdemo.png">
+</center>
 <!-- The [emojify](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes).
 
 To enable emoji globally, set ```enableEmoji``` to ```true``` in your site’s [configuration](https://gohugo.io/getting-started/configuration/) and then you can type emoji shorthand codes directly in content files; e.g.
