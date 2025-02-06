@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emoji Support on Hugo Profile</title>
+    <link>http://localhost:1313/tags/emoji-support/</link>
+    <description>Recent content in Emoji Support on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sat, 03 Apr 2021 22:53:58 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/emoji-support/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Serveur</title>
+      <link>http://localhost:1313/projets/hugo/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      <guid>http://localhost:1313/projets/hugo/</guid>
+      <description>&lt;p&gt;HUGO est un service en ligne d&amp;rsquo;archivage et de protection de fichiers numériques permettant à leurs auteurs ou à leurs ayants droit d&amp;rsquo;assurer la conservation et la protection juridique de leurs œuvres.&lt;/p&gt;&#xA;&lt;h2 id=&#34;portfolio&#34;&gt;Portfolio&lt;/h2&gt;&#xA;&lt;p&gt;&amp;hellip;&lt;/p&gt;&#xA;&lt;!-- The [emojify](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes).&#xA;&#xA;To enable emoji globally, set ```enableEmoji``` to ```true``` in your site’s [configuration](https://gohugo.io/getting-started/configuration/) and then you can type emoji shorthand codes directly in content files; e.g.&#xA;&#xA;The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference for emoji shorthand codes.&#xA;&#xA;&lt;hr&gt;&#xA;&#xA;**N.B.** The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.--&gt;</description>
+    </item>
+  </channel>
+</rss>
